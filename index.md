@@ -31,7 +31,7 @@ Por hora, disponibilizamos apenas uma versão de executável para computadores W
   
 	  luengo_nunes_vieira_2021, 
     
-	  title={Contagem de Citações de Referências em Artigos Científicos}, 
+	  title={Aplicação para contagem de citações de referências em artigos científicos.}, 
     
 	  url={https://gutolpn.github.io/CitationMeasureApp/}, 
     
