@@ -1,4 +1,4 @@
-# Informações Importantes
+# Citation Measure
 
 Olá, bem vindo!
 O **Citation Measure** é um programa de contagem de citações de referências em artigos científicos, 
@@ -11,8 +11,13 @@ Neste programa, encontram-se partes dos resultados de dois projetos de pesquisa 
   -**TCC:** O Compliance como Instrumento de Monitoramento e Controle da Administração Pública, desenvolvido por Claudia Abe Gargel Luengo no curso de Administração da UEL, sob orientação do professor Dr. Saulo Fabiano Amâncio Vieira.
   -**Projeto:** Componentes para Análise de Dados não Estruturados; coordenado pelo professor Dr. Augusto L P Nunes, desenvolvido no IFPR.
 
+## Download
 
-A distribuição do Citation Measure é limitada ao uso temporário de 25 execuções de contagem. 
+A distribuição do Citation Measure é limitada ao uso temporário de 25 execuções de contagem. Caso sejam necessárias mais execuções do programa, por favor, entre em contato com os autores. 
+
+Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui]( https://drive.google.com/file/d/1UIuEuaOoyqJczZNAr9LEm0LbMuxghnor/view?usp=sharing).
+
+
 
 ## Como Citar
 
