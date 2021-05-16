@@ -20,6 +20,10 @@ A distribuição do Citation Measure é limitada ao uso temporário de 25 execu�
 Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui]( https://drive.google.com/file/d/1UIuEuaOoyqJczZNAr9LEm0LbMuxghnor/view?usp=sharing).
 
 
+## Contatos
+- **Cláudia A. G. Luengo** - claudia.luengo@uel.br
+- **Augusto L. P. Nunes** - augusto.nunes@ifpr.edu.br
+- **Saulo F. A. Vieira** - [www.uel.br/pos/ppga](http://www.uel.br/pos/ppga/index.php/en/?option=com_contact&view=contact&id=11)
 
 ## Como Citar
 
