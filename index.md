@@ -8,7 +8,9 @@ do [Instituto Federal do Paraná – Campus Londrina](https://londrina.ifpr.edu.
 Neste programa, encontram-se partes dos resultados de dois projetos de pesquisa e um trabalho de conclusão de curso (TCC):
 
   -**Projeto:** O Compliance como Instrumento de Monitoramento e Controle da Administração Pública, coordenado pelo professor Dr. Saulo Fabiano Amâncio Vieira, desenvolvido na UEL e fomentado com recursos do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
+  
   -**TCC:** O Compliance como Instrumento de Monitoramento e Controle da Administração Pública, desenvolvido por Claudia Abe Gargel Luengo no curso de Administração da UEL, sob orientação do professor Dr. Saulo Fabiano Amâncio Vieira.
+  
   -**Projeto:** Componentes para Análise de Dados não Estruturados; coordenado pelo professor Dr. Augusto L P Nunes, desenvolvido no IFPR.
 
 ## Download
