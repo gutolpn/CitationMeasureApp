@@ -17,7 +17,7 @@ Neste programa, encontram-se partes dos resultados de dois projetos de pesquisa 
 
 A distribuição do Citation Measure é limitada ao uso temporário de 25 execuções de contagem. Caso sejam necessárias mais execuções do programa, por favor, entre em contato com os autores. 
 
-Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui]( https://drive.google.com/file/d/1UIuEuaOoyqJczZNAr9LEm0LbMuxghnor/view?usp=sharing).
+Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui](https://drive.google.com/file/d/14ApVQn-eOkQxShKNKjor7w24M0cB8M24/view?usp=sharing).
 
 
 ## Contatos
