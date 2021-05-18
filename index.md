@@ -23,7 +23,7 @@ Por hora, disponibilizamos apenas uma versão de executável para computadores W
 ## Contatos
 - **Cláudia A. G. Luengo** - claudia.luengo@uel.br
 - **Augusto L. P. Nunes** - augusto.nunes@ifpr.edu.br
-- **Saulo F. A. Vieira** - [www.uel.br/pos/ppga](http://www.uel.br/pos/ppga/index.php/en/?option=com_contact&view=contact&id=11)
+- **Saulo F. Amâncio Vieira** - saulo@uel.br
 
 ## Como Citar
 
