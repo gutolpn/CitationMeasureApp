@@ -17,7 +17,7 @@ Neste programa, encontram-se partes dos resultados de dois projetos de pesquisa 
 
 A distribuição do Citation Measure é limitada ao uso temporário de 25 execuções de contagem. Caso sejam necessárias mais execuções do programa, por favor, entre em contato com os autores. 
 
-Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui]( https://drive.google.com/file/d/1UIuEuaOoyqJczZNAr9LEm0LbMuxghnor/view?usp=sharing).
+Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui](https://drive.google.com/file/d/19xWadp5GESHaZAiW2R-nP5BKJ50VlOnN/view?usp=sharing).
 
 
 ## Contatos
@@ -37,7 +37,7 @@ Por hora, disponibilizamos apenas uma versão de executável para computadores W
     
 	  journal={CitationMeasure}, 
     
-	  author={Luengo, Claudia A. G. and Nunes, Augusto L. P. and Vieira, Saulo F. A.},
+	  author={Luengo, Claudia A. G. and Nunes, Augusto L. P. and Amâncio-Vieira, Saulo F.},
     
 	  year={2021}, 
     
