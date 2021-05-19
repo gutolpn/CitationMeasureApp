@@ -11,13 +11,13 @@ Neste programa, desenvolvido no âmbito das atividades do Núcleo Interdisciplin
   
   -**TCC:** O Compliance como Instrumento de Monitoramento e Controle da Administração Pública, desenvolvido por Claudia Abe Gargel Luengo no curso de Administração da UEL, sob orientação do professor Dr. Saulo Fabiano Amâncio Vieira.
   
-  -**Projeto:** Componentes para Análise de Dados não Estruturados; coordenado pelos professores Dr. Augusto L P Nunes e Dr. Rodolfo Barriviera, desenvolvido no IFPR.
+  -**Projeto:** Componentes para Análise de Dados não Estruturados, coordenado pelos professores Dr. Augusto L. P. Nunes e Dr. Rodolfo Barriviera, desenvolvido como parte das atividades do Cluster de Inteligência Artificial do IFPR - Campus Londrina.
 
 ## Download
 
 A distribuição do Citation Measure é limitada ao uso temporário de 25 execuções de contagem. Caso sejam necessárias mais execuções do programa, por favor, entre em contato com os autores. 
 
-Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui](https://drive.google.com/file/d/19xWadp5GESHaZAiW2R-nP5BKJ50VlOnN/view?usp=sharing).
+Por hora, disponibilizamos apenas uma versão de executável para computadores Windows. Você pode baixar a versão atual [aqui](https://drive.google.com/file/d/1RLZdm4GU68y4-mZbldOabpFFcMeoqqv_/view?usp=sharing).
 
 
 ## Contatos
